@@ -25,7 +25,7 @@ public class SMSAbbreviations {
 			System.out.println("Unkown Abbreviation");
 		}
 		
-		System.out.println(translation);
+		System.out.println(abbreviation + " means " + translation);
 		
 		
 		
